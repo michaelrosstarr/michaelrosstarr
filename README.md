@@ -10,4 +10,4 @@ My name is Michael. I'm a student from South Africa studying Multimedia. I love 
 - **Discord:** SpikyZA#0001
 - **Email:** michael@nerdnetwork.digital
 
-[![SpikyZA's github stats](https://github-readme-stats.vercel.app/api?username=spikyza)](https://github.com/anuraghazra/github-readme-stats)
+[![SpikyZA's github stats](https://github-readme-stats.vercel.app/api?username=spikyza&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
