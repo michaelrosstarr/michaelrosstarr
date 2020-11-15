@@ -11,4 +11,4 @@ My name is Michael. I'm a student from South Africa studying Multimedia. I love 
 - **Email:** michael@nerdnetwork.digital
 
 [![SpikyZA's github stats](https://github-readme-stats.vercel.app/api?username=spikyza&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spikyza&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spikyza&layout=compact&show_icons=true&theme=radical&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
