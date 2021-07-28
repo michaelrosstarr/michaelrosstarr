@@ -1,9 +1,9 @@
 ### 👋 Hi there
-My name is Michael. I'm a student from South Africa studying Multimedia. I love making and breaking things, so don't rely on me to make anything for you...
+My name is Michael, a student from South Africa studying Multimedia. I love making and breaking things, so don't rely on me to make anything for you...
 
 ### 🔭 I'm currently working on:  
-- **Nerd Network Digital** @ https://nerdnetwork.digital
-- **South African Nerd Network** Jaz @ https://thenerdnetwork.co.za
+- [Nerd Network Digital](https://nerdnetwork.digital)
+- [Report](https://gitHub.com/michaelrosstarr/report)
 
 ### 📪 Contact Me
 - **Discord:** It keeps changing
