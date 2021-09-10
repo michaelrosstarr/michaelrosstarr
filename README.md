@@ -1,5 +1,6 @@
-### 👋 Hi there
-My name is Michael, a student from South Africa studying Multimedia. I love making and breaking things, so don't rely on me to make anything for you...
+### 🍉 Hi, I am Sloth
+
+I am currently a student at the University of Pretoria, South Africa, studying a BIS in Multimedia. I enjoy gaming, coding, watching movies and eating watermelons.
 
 ### 🔭 I'm currently working on:  
 - [Nerd Network Digital](https://nerdnetwork.digital)
