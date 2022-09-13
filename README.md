@@ -9,6 +9,6 @@
 
 - 📝 I regularly write articles on [https://sloththe.dev/blog](https://sloththe.dev/blog)
 
-![Github Stats](https://github-readme-stats.vercel.app/api/top-langs?username=michaelrosstarr&show_icons=true&locale=en&layout=compact&theme=radical")
+![Github Stats](https://github-readme-stats.vercel.app/api/top-langs?username=michaelrosstarr&show_icons=true&locale=en&layout=compact&theme=radical)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=michaelrosstarr&show_icons=true&locale=en&theme=radical)
