@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sloth the Dev</h1>
+<h1 align="center">👋, I'm Sloth the Dev</h1>
 <h3 align="center">A South African, Gamer and Freelance Developer.</h3>
 
 <div align="center">
