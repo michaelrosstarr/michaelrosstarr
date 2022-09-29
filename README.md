@@ -6,5 +6,5 @@
  <a href="https://discord.gg/wsTABaD47e"><img src="https://img.shields.io/badge/Join%20the%20Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Join Community Badge"/></a>
  
 
-![Github Stats](https://github-readme-stats.vercel.app/api/top-langs?username=michaelrosstarr&show_icons=true&locale=en&layout=compact&theme=radical)
-![Github Stats](https://github-readme-stats.vercel.app/api?username=michaelrosstarr&show_icons=true&locale=en&theme=radical)
+<!-- ![Github Stats](https://github-readme-stats.vercel.app/api/top-langs?username=michaelrosstarr&show_icons=true&locale=en&layout=compact&theme=radical)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=michaelrosstarr&show_icons=true&locale=en&theme=radical) -->
