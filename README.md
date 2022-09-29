@@ -1,5 +1,5 @@
 <h1 align="center">👋, I'm Sloth the Dev</h1>
-<h3 align="center">A South African, Gamer and Freelance Developer.</h3>
+<h3 align="center">A South African, Gamer and Freelance Developer</h3>
 
 <div align="center">
 <a href="https://www.buymeacoffee.com/sloththedev"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="BuyMeACoffeeBadge"/></a>
