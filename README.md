@@ -6,6 +6,8 @@
 <a href="https://redirect.sloththe.dev/discord"><img src="https://img.shields.io/badge/Join%20the%20Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Join Community Badge"/></a>
 <a href="https://redirect.sloththe.dev/statsfm"><img src="https://img.shields.io/badge/Stats.fm-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Stats.fm Link"/></a>
 <a href="https://redirect.sloththe.dev/twitter"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"</a>
+ 
+ <br/>
  <br/>
  
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sloththedev&show_icons=true&locale=en&layout=compact&theme=radical" />
