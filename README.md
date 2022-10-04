@@ -11,6 +11,7 @@
  <br/>
  
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sloththedev&show_icons=true&locale=en&layout=compact&theme=dark" />
+<br/>
 <img src="https://github-readme-stats.vercel.app/api?username=sloththedev&show_icons=true&locale=en&theme=dark" />
 
 <!-- ![Github Stats](https://github-readme-stats.vercel.app/api/top-langs?username=michaelrosstarr&show_icons=true&locale=en&layout=compact&theme=radical)
