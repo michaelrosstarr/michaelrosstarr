@@ -10,8 +10,8 @@
  <br/>
  <br/>
  
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sloththedev&show_icons=true&locale=en&layout=compact&theme=radical" />
-<img src="https://github-readme-stats.vercel.app/api?username=sloththedev&show_icons=true&locale=en&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sloththedev&show_icons=true&locale=en&layout=compact&theme=dark" />
+<img src="https://github-readme-stats.vercel.app/api?username=sloththedev&show_icons=true&locale=en&theme=dark" />
 
 <!-- ![Github Stats](https://github-readme-stats.vercel.app/api/top-langs?username=michaelrosstarr&show_icons=true&locale=en&layout=compact&theme=radical)
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=michaelrosstarr&show_icons=true&locale=en&theme=radical) -->
