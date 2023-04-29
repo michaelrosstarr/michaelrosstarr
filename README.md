@@ -7,7 +7,7 @@
   <a href="https://www.linkedin.com/in/michaelrosstarr/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </div>
 <hr/>
-<div align="center">
+<div style="display: flex; flex-direction: column">
   <img src="https://github-readme-stats.vercel.app/api?username=michaelrosstarr&count_private=true&show_icons=true&theme=transparent"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelrosstarr&size_weight=0.5&count_weight=0.5&theme=transparent"/>
 </div>
