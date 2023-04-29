@@ -1,7 +1,8 @@
-<h1 align="center">👋, I'm Sloth the Dev</h1>
+<h1 align="center">Hi 👋, I'm Michael Ross Tarr</h1>
 <h3 align="center">A South African, Gamer and Freelance Developer</h3>
-
+<p align="center">I am a 3rd year [BIS Multimedia](https://www.up.ac.za/information-science/article/1821932/bis-multimedia) student at the University of Pretoria. I like gaming, programming, and sleeping.</p>
 <div align="center">
-<a href="https://redirect.sloththe.dev/coffeev"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="BuyMeACoffeeBadge"/></a>
-<a href="https://redirect.sloththe.dev/statsfm"><img src="https://img.shields.io/badge/Stats.fm-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Stats.fm Link"/></a>
-<a href="https://redirect.sloththe.dev/twitter"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"</a>
+  <a href="https://stats.fm/michaelrosstarr"><img src="https://img.shields.io/badge/Stats.fm-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Stats.fm Link"/></a>
+  <a href="https://twitter.com/michaelrosstarr"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/></a>
+  <a href="https://www.linkedin.com/in/michaelrosstarr/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</div>
