@@ -8,3 +8,4 @@
 </div>
 <hr/>
 <img src="https://github-readme-stats.vercel.app/api?username=michaelrosstarr&count_private=true&show_icons=true&theme=transparent"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelrosstarr&size_weight=0.5&count_weight=0.5&theme=transparent&layout=compact"/>
