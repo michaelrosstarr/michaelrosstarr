@@ -28,7 +28,7 @@
   <a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" /></a>
   <a href="https://firebase.google.com/"><img src="https://skillicons.dev/icons?i=firebase" /></a>
   <a href="https://cloud.google.com/"><img src="https://skillicons.dev/icons?i=gcp" /></a>
-  <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github,githubactions" /></a>
+  <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" /></a>
   <a href="https://mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" /></a>
   <a href="https://nestjs.com/"><img src="https://skillicons.dev/icons?i=nestjs" /></a>
