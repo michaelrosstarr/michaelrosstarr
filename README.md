@@ -21,5 +21,21 @@
 <hr/>
 
 <div align="center">
-  <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" /></a>
+  <a href="https://docker.com/"><img src="https://skillicons.dev/icons?i=docker" /></a>
+  <a href="https://azure.microsoft.com/en-us"><img src="https://skillicons.dev/icons?i=azure" /></a>
+  <a href="https://cloudflare.com/"><img src="https://skillicons.dev/icons?i=cloudflare" /></a>
+  <a href="https://deno.com/"><img src="https://skillicons.dev/icons?i=deno" /></a>
+  <a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" /></a>
+  <a href="https://firebase.google.com/"><img src="https://skillicons.dev/icons?i=firebase" /></a>
+  <a href="https://cloud.google.com/"><img src="https://skillicons.dev/icons?i=gcp" /></a>
+  <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github,githubactions" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" /></a>
+  <a href="https://mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" /></a>
+  <a href="https://nestjs.com/"><img src="https://skillicons.dev/icons?i=nestjs" /></a>
+  <a href="https://nextjs.org"><img src="https://skillicons.dev/icons?i=nextjs" /></a>
+  <a href="https://nodejs.org/en"><img src="https://skillicons.dev/icons?i=nodejs" /></a>
+  <a href="https://react.dev"><img src="https://skillicons.dev/icons?i=react" /></a>
+  <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" /></a>
+  <a href="https://typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" /></a>
+  <a href="https://workers.cloudflare.com/"><img src="https://skillicons.dev/icons?i=workers" /></a>
 </div>
