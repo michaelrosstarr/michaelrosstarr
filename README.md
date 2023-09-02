@@ -16,10 +16,6 @@
 
 <hr/>
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=michaelrosstarr&count_private=true&show_icons=true&theme=transparent"/></div>
-
-<hr/>
-
 <div align="center">
   <a href="https://docker.com/"><img src="https://skillicons.dev/icons?i=docker" /></a>
   <a href="https://azure.microsoft.com/en-us"><img src="https://skillicons.dev/icons?i=azure" /></a>
