@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Michael Ross Tarr</h1>
+# Hi 👋, I'm Michael Ross Tarr
 
 <h3 align="center">A South African, Gamer and Freelance Web Developer</h3>
 
