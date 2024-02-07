@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Michael Ross Tarr</h1>
 
-<h3 align="center">A South African, Gamer and Freelance Web Developer</h3>
-
-<p align="center">University student by day, gamer by night.</p>
+<p align="center">Proud South African studying Multimedia Honours at University of Pretoria, video game player and music listener.</p>
 
 <div align="center">
   <a href="https://stats.fm/michaelrosstarr"><img src="https://img.shields.io/badge/Stats.fm-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Stats.fm Link"/></a>
