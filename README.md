@@ -17,7 +17,7 @@
 
 <div align="center">
 
-<a href="https://www.credly.com/badges/bb64a7b5-7cb3-420d-ba83-05a2c49054a2/public_url"><img style="width: 48px;" src="https://r2.sloththe.dev/zion/aws-academy-graduate-aws-academy-cloud-foundations.png" /></a>
+<a href="https://www.credly.com/badges/bb64a7b5-7cb3-420d-ba83-05a2c49054a2/public_url"><img style="width: 64px;" src="https://r2.sloththe.dev/zion/aws-academy-graduate-aws-academy-cloud-foundations.png" /></a>
 
 </div>
 
