@@ -15,6 +15,10 @@
 
 <hr/>
 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="bb64a7b5-7cb3-420d-ba83-05a2c49054a2" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+<hr/>
+
 <div align="center">
   <a href="https://docker.com/"><img src="https://skillicons.dev/icons?i=docker" /></a>
   <a href="https://azure.microsoft.com/en-us"><img src="https://skillicons.dev/icons?i=azure" /></a>
