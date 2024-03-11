@@ -17,7 +17,7 @@
 
 <div align="center">
 
-<a href="https://www.credly.com/badges/bb64a7b5-7cb3-420d-ba83-05a2c49054a2/public_url"><img src="https://acclaim-production-app.files.credly.com/uploads/baked_badge_image/image/4f58736f-24c9-4bb5-a4df-5728f4d6a726/aws-academy-graduate-aws-academy-cloud-foundations.png?response-content-disposition=attachment&X-Amz-Expires=86400&X-Amz-Date=20240311T124734Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA5DGBWDLSBJ5BZX5Z%2F20240311%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=10f3d38af50917d6106019a5aa6d4ec01937eb448d93fd0dce4835fa6ecdc0af" /></a>
+<a href="https://www.credly.com/badges/bb64a7b5-7cb3-420d-ba83-05a2c49054a2/public_url"><img style="width: 256px" src="https://r2.sloththe.dev/zion/aws-academy-graduate-aws-academy-cloud-foundations.png" /></a>
 
 </div>
 
