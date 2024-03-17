@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Michael Ross Tarr</h1>
 
-<p align="center">Proudly South African, Gamer and sometimes Developer</p>
+<p align="center">Proud South African, Gamer, Music Listener, Student and Fullstack Developer</p>
 
 <div align="center">
   <a href="https://stats.fm/michaelrosstarr"><img src="https://img.shields.io/badge/Stats.fm-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Stats.fm Link"/></a>
