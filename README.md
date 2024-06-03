@@ -42,4 +42,5 @@
   <a href="https://typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" /></a>
   <a href="https://workers.cloudflare.com/"><img src="https://skillicons.dev/icons?i=workers" /></a>
   <a href="https://aws.amazon.com/"><img src="https://skillicons.dev/icons?i=aws" /></a>
+  <a href="https://bun.sh/"><img src="https://skillicons.dev/icons?i=bun" /></a>
 </div>
