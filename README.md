@@ -43,4 +43,5 @@
   <a href="https://workers.cloudflare.com/"><img src="https://skillicons.dev/icons?i=workers" /></a>
   <a href="https://aws.amazon.com/"><img src="https://skillicons.dev/icons?i=aws" /></a>
   <a href="https://bun.sh/"><img src="https://skillicons.dev/icons?i=bun" /></a>
+  <a href="https://unity.com"><img src="https://skillicons.dev/icons?i=unity" /></a>
 </div>
