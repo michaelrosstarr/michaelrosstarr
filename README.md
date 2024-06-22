@@ -9,12 +9,6 @@
   <a href="https://michaelrosstarr.com/"><img src="https://img.shields.io/badge/Website-FFC83D?style=for-the-badge&logo=googlechrome&logoColor=333333" /></a>
 </div>
 
-<div align="center">
-
-<a href="https://www.credly.com/badges/bb64a7b5-7cb3-420d-ba83-05a2c49054a2/public_url"><img style="width: 128px;" src="https://r2.sloththe.dev/zion/aws-academy-graduate-aws-academy-cloud-foundations.png" /></a>
-
-</div>
-
 <hr/>
 
 <div align="center">
