@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Michael/h1>
+<h1 align="center">Hi 👋, I'm Michael</h1>
 
 <p align="center">Hey 👋, I'm Michael, but I also go as Sloth in some places. I'm a proudly South African freelance fullstack web developer. Being an avid gamer, I play games 🤣 but also listen to music from time to time ~ as in, I'm always listening to music. I'm currently purusing my post graduate honours level degree in Multimedia, with a focus on Mixed Reality.</p>
 
