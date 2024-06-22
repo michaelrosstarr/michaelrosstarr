@@ -10,12 +10,6 @@
 </div>
 
 <div align="center">
-  <a href="https://wakatime.com/@44d25d65-aafb-4999-87c0-22b439dbee79"><img src="https://wakatime.com/badge/user/44d25d65-aafb-4999-87c0-22b439dbee79.svg" alt="Total time coded since Apr 29 2023" /></a>
-</div>
-
-<hr/>
-
-<div align="center">
 
 <a href="https://www.credly.com/badges/bb64a7b5-7cb3-420d-ba83-05a2c49054a2/public_url"><img style="width: 128px;" src="https://r2.sloththe.dev/zion/aws-academy-graduate-aws-academy-cloud-foundations.png" /></a>
 
