@@ -2,13 +2,6 @@
 
 <p align="center">I'm Michael, but I also go as Sloth in some places. I'm a proudly South African freelance fullstack web developer. Being an avid gamer, I play games 🤣 but also listen to music from time to time ~ as in, I'm always listening to music. I'm currently purusing my post graduate honours level degree in Multimedia, with a focus on Mixed Reality.</p>
 
-<div align="center">
-  <a href="https://stats.fm/michaelrosstarr"><img src="https://img.shields.io/badge/Stats.fm-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Stats.fm Link"/></a>
-  <a href="https://twitter.com/michaelrosstarr"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/></a>
-  <a href="https://www.linkedin.com/in/michaelrosstarr/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://michaelrosstarr.com/"><img src="https://img.shields.io/badge/Website-FFC83D?style=for-the-badge&logo=googlechrome&logoColor=333333" /></a>
-</div>
-
 <hr/>
 
 <div align="center">
