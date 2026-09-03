@@ -1,6 +1,6 @@
 <h3 align="center">Wuzzup 🤙, I'm Michael</h3>
 
-<p align="center">I'm Michael, but I also go as Sloth in some places. I'm a proudly South African freelance fullstack web developer. Being an avid gamer, I play games 🤣 but also listen to music from time to time ~ as in, I'm always listening to music. I'm currently purusing my post graduate honours level degree in Multimedia, with a focus on Mixed Reality.</p>
+<p align="center">I'm Michael, but I also go as Sloth in some places. Proudly South African working at [DNS Africa](https://dns.africa/) as a Fullstack Software Engineer</p>
 
 <div align="center">
   <a href="https://docker.com/"><img src="https://skillicons.dev/icons?i=docker" /></a>
