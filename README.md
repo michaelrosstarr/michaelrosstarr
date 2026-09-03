@@ -1,6 +1,6 @@
 <h3 align="center">Wuzzup 🤙, I'm Michael</h3>
 
-<p align="center">I'm Michael, but I also go as Sloth in some places. Proudly South African working at [DNS Africa](https://dns.africa/) as a Fullstack Software Engineer</p>
+<p align="center">I'm Michael, but I also go as Sloth (and voetsek) in some places. Proudly South African working at [DNS Africa](https://dns.africa/) as a Fullstack Software Engineer</p>
 
 <div align="center">
   <a href="https://docker.com/"><img src="https://skillicons.dev/icons?i=docker" /></a>
